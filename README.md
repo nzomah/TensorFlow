@@ -1,5 +1,7 @@
 # What's new in TensorFlow 2.x
 
+#This is an insertion that I have made to this document using "notepad readme.md"
+
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
@@ -12,7 +14,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * TensorFlow Lite
 * TensorFlow.js
 * Tidying up the API
-* The conversion tool
+* The conversion TOOL
 * Alternative variable scoping
   
 
